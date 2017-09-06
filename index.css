@@ -1,0 +1,19 @@
+body,p,ul,li,h1,h2,h3,h4{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+
+body{
+    background-color: #f0f3f6;
+    color: #555;
+}
+
+.title{
+    height: 60px;
+    line-height: 60px;
+    font-size: 18px;
+    padding: 0 20px;
+}
